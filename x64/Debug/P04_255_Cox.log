@@ -1,6 +1,0 @@
-﻿  Random.cpp
-C:\Users\ssski\Desktop\Data Structures (c++)\P04_255_Cox\P04_255_Cox\P04_255_Cox\Random.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Sort.cpp
-  SortDiff.cpp
-  Generating Code...
-  P04_255_Cox.vcxproj -> C:\Users\ssski\Desktop\Data Structures (c++)\P04_255_Cox\P04_255_Cox\x64\Debug\P04_255_Cox.exe
